@@ -8,7 +8,7 @@
 4. - [x] [Constants](https://gobyexample.com/constants)
 5. - [x] [For](https://gobyexample.com/for)
 6. - [x] [If/Else](https://gobyexample.com/if-else)
-7. - [ ] [Switch](https://gobyexample.com/switch)
+7. - [x] [Switch](https://gobyexample.com/switch)
 8. - [ ] Arrays
 9. - [ ] Slices
 10. - [ ] Maps

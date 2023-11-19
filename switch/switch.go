@@ -39,7 +39,7 @@ func main() {
 		case int:
 			fmt.Println("I am an int")
 		default:
-			fmt.Println("Don't know what type %T\n", t)
+			fmt.Printf("Don't know what type %T\n", t)
 		}
 	}
 	whatAmI(true)
