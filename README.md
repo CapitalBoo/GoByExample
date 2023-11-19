@@ -7,7 +7,7 @@
 3. - [x] [Variables](https://gobyexample.com/variables)
 4. - [x] [Constants](https://gobyexample.com/constants)
 5. - [x] [For](https://gobyexample.com/for)
-6. - [ ] If/Else
+6. - [x] [If/Else](https://gobyexample.com/if-else)
 7. - [ ] Switch
 8. - [ ] Arrays
 9. - [ ] Slices
