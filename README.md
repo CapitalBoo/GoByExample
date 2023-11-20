@@ -9,7 +9,7 @@
 5. - [x] [For](https://gobyexample.com/for)
 6. - [x] [If/Else](https://gobyexample.com/if-else)
 7. - [x] [Switch](https://gobyexample.com/switch)
-8. - [ ] Arrays
+8. - [x] [Arrays](https://gobyexample.com/arrays)
 9. - [ ] Slices
 10. - [ ] Maps
 11. - [ ] Range
