@@ -11,7 +11,7 @@
 7. - [x] [Switch](https://gobyexample.com/switch)
 8. - [x] [Arrays](https://gobyexample.com/arrays)
 9. - [x] [Slices](https://gobyexample.com/slices)
-10. - [ ] Maps
+10. - [x] [Maps](https://gobyexample.com/maps)
 11. - [ ] Range
 12. - [ ] Functions
 13. - [ ] Multiple Return Values
